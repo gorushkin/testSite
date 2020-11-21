@@ -1,0 +1,8 @@
+.img-wrapper {
+  display: flex;
+  max-width: 100%;
+}
+
+img {
+  width: 25%;
+}
